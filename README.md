@@ -14,7 +14,7 @@ enter their details. We are taking Aadhar Number of the user who wants to rent t
 
 Download or clone this repo by using the link below:
 ```
-https://github.com/Samiksha99/ParkPlace.git
+https://github.com/dhruvm2509/ParkPlace.git
 ```
 
 **Step 2:**
